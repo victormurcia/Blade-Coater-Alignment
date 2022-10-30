@@ -5,4 +5,4 @@ The routine works by uploading an image from inside the blading chamber and then
 
 ![alt text](https://github.com/victormurcia/Blade-Coater-Alignment/blob/main/blade%20coater%20coord%20selection.gif)
 
-![alt text](https://github.com/victormurcia/Blade-Coater-Alignment/blob/main/blade%20coater%20coord%20selection.gif)
+![alt text](https://github.com/victormurcia/Blade-Coater-Alignment/blob/main/bc3.png)
